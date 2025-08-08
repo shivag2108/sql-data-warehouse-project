@@ -38,8 +38,6 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ---
 
-## 🌟 About
-
 ## 🌟 About Me
 
 Hi there! I’m **Shiva Yadav**, an aspiring **Power BI Developer** with a strong foundation in **SQL**, **Power BI**, and a growing skill set in **Python** and **Tableau**. I'm passionate about transforming raw data into meaningful insights to support smart business decisions.
