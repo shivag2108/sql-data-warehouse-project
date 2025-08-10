@@ -2,6 +2,18 @@
 ==========================================================================================================
 Stored Procedure: Load sliver Layer (source-> sliver)
 ==========================================================================================================
+Script Purpose:
+	This stored procedure performances the ETL(Extract, Transform and Load) process to populated the 'sliver' schema tables from the 'bronze' schema.
+Additional Performed:
+	- Truncate sliver tables.
+	- Inserts transformed and cleaned data from Bronze into sliver tables.
+
+Parameters:
+	None.
+	This stored Procedure does not accept any parameters or return any values.
+
+Use Example:
+	EXE sliver.load_sliver;
 */
 
 CREATE OR ALTER PROCEDURE sliver.load_sliver
